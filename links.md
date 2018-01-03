@@ -28,6 +28,10 @@
 
 * [Nim Programming Cookbook](http://nim-cookbook.btbytes.com/)
 * [Nim by Example](https://nim-by-example.github.io/)
+* [awesome-nim](https://github.com/VPashkov/awesome-nim)
+* [Learn Nim in Y minutes](https://learnxinyminutes.com/docs/nim/)
+* [Rosetta Code (nim section)](https://rosettacode.org/wiki/Category:Nim)
+* [Nim packages](https://github.com/nim-lang/packages) : A central listing of all packages for [Nimble](https://github.com/nim-lang/nimble)
 
 # Interesting Libraries
 
