@@ -1,0 +1,70 @@
+# Website
+
+[https://nim-lang.org](https://nim-lang.org/)
+
+# Blogs
+
+* [Nim blog](https://nim-lang.org/blog/2017/12/28/nim-in-2017-a-short-recap.html?ref=reddit)
+* [Hook Race Blog](https://hookrace.net)
+
+# Articles
+
+* [What makes Nim practical?](https://hookrace.net/blog/what-makes-nim-practical/)
+* [How I Start: Nim (with Dennis Felsing)](http://howistart.org/posts/nim/1/)
+* [Unit Testing in Nim](http://blog.zdsmith.com/posts/unit-testing-in-nim.html)
+* [Nim for scientific computing](http://rnduja.github.io/2015/10/21/scientific-nim/)
+* [Introduction to OpenCL](http://rnduja.github.io/2016/05/31/opencl-intro/)
+* [To C or not to C?  Let Nim answer the question!](http://bontavlad.github.io/blog/2017/02/08/to-c-or-not-to-c-let-nim-anwser-the-question/)
+
+
+# Alternative Resources
+
+* [Nim Programming Cookbook](http://nim-cookbook.btbytes.com/)
+* [Nim by Example](https://nim-by-example.github.io/)
+
+# News
+
+* [Nim on Reddit](https://www.reddit.com/r/nim/)
+* [Nim gitter channel](https://gitter.im/nim-lang/Nim)
+
+# Interesting Libraries
+
+## General
+
+* [Variable length arrays for Nim](https://github.com/bpr/vla)
+* [TinyNim - a REPL for Nim (an interactive sandbox for testing Nim code)](https://github.com/jlp765/tnim)
+
+## Scientific &amp; Statistical Computing
+
+* [Arraymancer: High performance tensor library in Nim](https://andre-ratsimbazafy.com/high-performance-tensor-library-in-nim/)
+* [NimData: DataFram API written in Nim, enabling fast out-of-core data processing](https://github.com/bluenote10/NimData)
+* [linear-algebra](https://github.com/unicredit/linear-algebra)
+
+## Testing
+
+* [nim-quickcheck](https://github.com/alehander42/nim-quickcheck)
+* [einheit](https://github.com/jyapayne/einheit)
+
+# Videos
+
+# Compiler Development
+
+* [Pointer Free Programming](https://www.youtube.com/watch?v=EC9zCXlvY2k)
+* [Thinking about destructors](https://www.youtube.com/watch?v=KNUDGZuqfQM)
+* [Pretty Printing](https://www.youtube.com/watch?v=UV38gQfcb9c)
+* [Random bug fixing](https://www.youtube.com/watch?v=E2qlDKm_WzE)
+
+# Standard Library and packages
+
+* [Enhancing the Nim programming language IRC bot](https://www.youtube.com/watch?v=CkXZjjWD8EI)
+* [Creating a web driver package and fixing stdlib bugs](https://www.youtube.com/watch?v=583BwZ7uSro)
+* [Extending web driver package, stock notifier and Nimble](https://www.youtube.com/watch?v=UQ4RvUlXIDI)
+* [Fixing stdlib bugs in the Nim programming language](https://www.youtube.com/watch?v=RggcZEXZA-g)
+
+# Miscellaneous
+
+* [Nim: A New Option for Optimizing Inner Loops](https://www.youtube.com/watch?v=IVgNVJdizHg) -- Extending python with Nim
+* [Fred Heath - The Nim programming language - Bristech 2016](https://www.youtube.com/watch?v=_HeU8yg_WaE)
+* [OSCON 2015 - Andreas Rumpf - Nim: An Overview](https://www.youtube.com/watch?v=4rJEBs_Nnaw)
+
+
