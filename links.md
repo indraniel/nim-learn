@@ -2,6 +2,7 @@
 
 * [https://nim-lang.org](https://nim-lang.org/) : Main Website
 * [Documentation](https://nim-lang.org/documentation.html) : Primary Documentation
+* [Nim Manual](https://nim-lang.org/docs/manual.html)
 
 # Blogs / News
 
@@ -27,7 +28,6 @@
 
 # Alternative Resources
 
-* [Nim Manual](https://nim-lang.org/docs/manual.html)
 * [Nim Programming Cookbook](http://nim-cookbook.btbytes.com/)
 * [Nim by Example](https://nim-by-example.github.io/)
 * [awesome-nim](https://github.com/VPashkov/awesome-nim)
