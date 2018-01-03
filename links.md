@@ -57,6 +57,11 @@
 * [nim-quickcheck](https://github.com/alehander42/nim-quickcheck)
 * [einheit](https://github.com/jyapayne/einheit)
 
+## Web Development
+
+* [jester](https://github.com/dom96/jester) :  Sinatra-like web framework for Nim.
+* [rosencrantz](https://github.com/andreaferretti/rosencrantz) : Web DSL for Nim
+
 # Interesting Applications
 
 * [mosdepth](https://github.com/brentp/mosdepth)
