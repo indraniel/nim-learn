@@ -33,6 +33,11 @@
 * [Variable length arrays for Nim](https://github.com/bpr/vla)
 * [TinyNim - a REPL for Nim (an interactive sandbox for testing Nim code)](https://github.com/jlp765/tnim)
 
+## Genomics
+
+* [hts-nim](https://github.com/brentp/hts-nim)
+* [nim-kmer](https://github.com/brentp/nim-kmer)
+
 ## Scientific &amp; Statistical Computing
 
 * [Arraymancer: High performance tensor library in Nim](https://andre-ratsimbazafy.com/high-performance-tensor-library-in-nim/)
