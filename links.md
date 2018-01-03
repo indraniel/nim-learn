@@ -49,6 +49,10 @@
 * [nim-quickcheck](https://github.com/alehander42/nim-quickcheck)
 * [einheit](https://github.com/jyapayne/einheit)
 
+# Interesting Applications
+
+* [mosdepth](https://github.com/brentp/mosdepth)
+
 # Videos
 
 ## Compiler Development
