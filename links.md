@@ -34,6 +34,7 @@
 * [Learn Nim in Y minutes](https://learnxinyminutes.com/docs/nim/)
 * [Rosetta Code (nim section)](https://rosettacode.org/wiki/Category:Nim)
 * [Nim packages](https://github.com/nim-lang/packages) : A central listing of all packages for [Nimble](https://github.com/nim-lang/nimble)
+* [Questions tagged "nim" on StackOverflow](https://stackoverflow.com/questions/tagged/nim)
 
 # Interesting Libraries
 
