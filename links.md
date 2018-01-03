@@ -7,8 +7,9 @@
 * [Nim blog](https://nim-lang.org/blog.html)
 * [Hook Race Blog](https://hookrace.net)
 * [Nim on Reddit](https://www.reddit.com/r/nim/)
-* [Nim gitter channel](https://gitter.im/nim-lang/Nim)
+* [Nim gitter channel](https://gitter.im/nim-lang/Nim) : linked to IRC channel
 * [Historical IRC logs](https://irclogs.nim-lang.org/)
+* [Nim Forum](https://forum.nim-lang.org/)
 
 
 # Articles
