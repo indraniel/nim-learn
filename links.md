@@ -26,6 +26,7 @@
 
 # Alternative Resources
 
+* [Nim Manual](https://nim-lang.org/docs/manual.html)
 * [Nim Programming Cookbook](http://nim-cookbook.btbytes.com/)
 * [Nim by Example](https://nim-by-example.github.io/)
 * [awesome-nim](https://github.com/VPashkov/awesome-nim)
