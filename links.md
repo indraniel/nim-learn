@@ -47,21 +47,21 @@
 
 # Videos
 
-# Compiler Development
+## Compiler Development
 
 * [Pointer Free Programming](https://www.youtube.com/watch?v=EC9zCXlvY2k)
 * [Thinking about destructors](https://www.youtube.com/watch?v=KNUDGZuqfQM)
 * [Pretty Printing](https://www.youtube.com/watch?v=UV38gQfcb9c)
 * [Random bug fixing](https://www.youtube.com/watch?v=E2qlDKm_WzE)
 
-# Standard Library and packages
+## Standard Library and packages
 
 * [Enhancing the Nim programming language IRC bot](https://www.youtube.com/watch?v=CkXZjjWD8EI)
 * [Creating a web driver package and fixing stdlib bugs](https://www.youtube.com/watch?v=583BwZ7uSro)
 * [Extending web driver package, stock notifier and Nimble](https://www.youtube.com/watch?v=UQ4RvUlXIDI)
 * [Fixing stdlib bugs in the Nim programming language](https://www.youtube.com/watch?v=RggcZEXZA-g)
 
-# Miscellaneous
+## Miscellaneous
 
 * [Nim: A New Option for Optimizing Inner Loops](https://www.youtube.com/watch?v=IVgNVJdizHg) -- Extending python with Nim
 * [Fred Heath - The Nim programming language - Bristech 2016](https://www.youtube.com/watch?v=_HeU8yg_WaE)
