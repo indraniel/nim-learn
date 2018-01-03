@@ -1,7 +1,7 @@
 # Basic
 
-[https://nim-lang.org](https://nim-lang.org/) : Main Website
-[Documentation](https://nim-lang.org/documentation.html) : Primary Documentation
+* [https://nim-lang.org](https://nim-lang.org/) : Main Website
+* [Documentation](https://nim-lang.org/documentation.html) : Primary Documentation
 
 # Blogs / News
 
