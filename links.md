@@ -65,6 +65,7 @@
 # Interesting Applications
 
 * [mosdepth](https://github.com/brentp/mosdepth)
+* [Nim implementation of the RealWorld example app](https://github.com/battila7/nim-realworld-example-app)
 
 # Videos
 
