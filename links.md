@@ -4,7 +4,7 @@
 
 # Blogs / News
 
-* [Nim blog](https://nim-lang.org/blog/2017/12/28/nim-in-2017-a-short-recap.html?ref=reddit)
+* [Nim blog](https://nim-lang.org/blog.html)
 * [Hook Race Blog](https://hookrace.net)
 * [Nim on Reddit](https://www.reddit.com/r/nim/)
 * [Nim gitter channel](https://gitter.im/nim-lang/Nim)
