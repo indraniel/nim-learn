@@ -2,10 +2,13 @@
 
 [https://nim-lang.org](https://nim-lang.org/)
 
-# Blogs
+# Blogs / News
 
 * [Nim blog](https://nim-lang.org/blog/2017/12/28/nim-in-2017-a-short-recap.html?ref=reddit)
 * [Hook Race Blog](https://hookrace.net)
+* [Nim on Reddit](https://www.reddit.com/r/nim/)
+* [Nim gitter channel](https://gitter.im/nim-lang/Nim)
+
 
 # Articles
 
@@ -21,11 +24,6 @@
 
 * [Nim Programming Cookbook](http://nim-cookbook.btbytes.com/)
 * [Nim by Example](https://nim-by-example.github.io/)
-
-# News
-
-* [Nim on Reddit](https://www.reddit.com/r/nim/)
-* [Nim gitter channel](https://gitter.im/nim-lang/Nim)
 
 # Interesting Libraries
 
