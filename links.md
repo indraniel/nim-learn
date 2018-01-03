@@ -18,6 +18,7 @@
 * [Nim for scientific computing](http://rnduja.github.io/2015/10/21/scientific-nim/)
 * [Introduction to OpenCL](http://rnduja.github.io/2016/05/31/opencl-intro/)
 * [To C or not to C?  Let Nim answer the question!](http://bontavlad.github.io/blog/2017/02/08/to-c-or-not-to-c-let-nim-anwser-the-question/)
+* [A guide to documenting, profiling, and debugging Nim code](https://nim-lang.org/blog/2017/10/02/documenting-profiling-and-debugging-nim-code.html)
 
 
 # Alternative Resources
