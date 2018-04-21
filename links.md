@@ -44,6 +44,7 @@
 * [Nim Standard Library](https://nim-lang.org/docs/lib.html)
 * [Variable length arrays for Nim](https://github.com/bpr/vla)
 * [TinyNim - a REPL for Nim (an interactive sandbox for testing Nim code)](https://github.com/jlp765/tnim)
+* [Dennis Felsing's gists](https://gist.github.com/def-)
 
 ## Genomics
 
