@@ -3,6 +3,7 @@
 * [https://nim-lang.org](https://nim-lang.org/) : Main Website
 * [Documentation](https://nim-lang.org/documentation.html) : Primary Documentation
 * [Nim Manual](https://nim-lang.org/docs/manual.html)
+* [Style Guide](https://nim-lang.org/docs/nep1.html)
 
 # Blogs / News
 
