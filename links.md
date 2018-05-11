@@ -25,6 +25,7 @@
 * [To C or not to C?  Let Nim answer the question!](http://bontavlad.github.io/blog/2017/02/08/to-c-or-not-to-c-let-nim-anwser-the-question/)
 * [A guide to documenting, profiling, and debugging Nim code](https://nim-lang.org/blog/2017/10/02/documenting-profiling-and-debugging-nim-code.html)
 * [Read World Nim Adventures](https://hackernoon.com/read-world-nim-adventures-5dc85ac7d9d6)
+* [Python vs NumPy vs Nim](https://narimiran.github.io/2018/05/10/python-numpy-nim.html)
 
 
 # Alternative Resources
