@@ -38,6 +38,13 @@
 * [Nim packages](https://github.com/nim-lang/packages) : A central listing of all packages for [Nimble](https://github.com/nim-lang/nimble)
 * [Questions tagged "nim" on StackOverflow](https://stackoverflow.com/questions/tagged/nim)
 
+# Static Linking
+
+* [Static Linking with nim](https://webcache.googleusercontent.com/search?q=cache:SZ1RLUHACWkJ:https://schipplock.eu/blogs/static-linking-with-nim.html+&cd=1&hl=en&ct=clnk&gl=us)
+* [Reddit: Static Linking with nim](https://www.reddit.com/r/programming/comments/2wk7q6/static_linking_with_nim/)
+* [Building with musl-gcc](https://github.com/yuhangwang/musl-nim/blob/master/src/hello/build.sh)
+* [musl: How to Use](https://www.musl-libc.org/how.html)
+
 # Interesting Libraries
 
 ## General
