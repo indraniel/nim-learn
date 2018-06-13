@@ -32,6 +32,7 @@
 
 * [Nim Programming Cookbook](http://nim-cookbook.btbytes.com/)
 * [Nim by Example](https://nim-by-example.github.io/)
+* [Nim Basics](https://narimiran.github.io/nim-basics/)
 * [awesome-nim](https://github.com/VPashkov/awesome-nim)
 * [Learn Nim in Y minutes](https://learnxinyminutes.com/docs/nim/)
 * [Rosetta Code (nim section)](https://rosettacode.org/wiki/Category:Nim)
