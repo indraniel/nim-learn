@@ -103,4 +103,8 @@
 * [Fred Heath - The Nim programming language - Bristech 2016](https://www.youtube.com/watch?v=_HeU8yg_WaE)
 * [OSCON 2015 - Andreas Rumpf - Nim: An Overview](https://www.youtube.com/watch?v=4rJEBs_Nnaw)
 
+### Jupyter/Python integration
+
+* [nim_magic](https://github.com/apahl/nim_magic)
+
 
