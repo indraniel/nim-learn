@@ -26,6 +26,8 @@
 * [A guide to documenting, profiling, and debugging Nim code](https://nim-lang.org/blog/2017/10/02/documenting-profiling-and-debugging-nim-code.html)
 * [Read World Nim Adventures](https://hackernoon.com/read-world-nim-adventures-5dc85ac7d9d6)
 * [Python vs NumPy vs Nim](https://narimiran.github.io/2018/05/10/python-numpy-nim.html)
+* [Deploying static binaries with musl](https://scripter.co/nim-deploying-static-binaries/)
+* [Check if stdin/stdout are associated with terminal or pipe](https://scripter.co/nim-check-if-stdin-stdout-are-associated-with-terminal-or-pipe/)
 
 
 # Alternative Resources
