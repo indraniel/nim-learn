@@ -64,7 +64,7 @@
 
 ## Scientific &amp; Statistical Computing
 
-* [Arraymancer: High performance tensor library in Nim](https://andre-ratsimbazafy.com/high-performance-tensor-library-in-nim/)
+* [Arraymancer: High performance tensor library in Nim](https://mratsim.github.io/Arraymancer/)
 * [NimData: DataFram API written in Nim, enabling fast out-of-core data processing](https://github.com/bluenote10/NimData)
 * [linear-algebra](https://github.com/unicredit/linear-algebra)
 
