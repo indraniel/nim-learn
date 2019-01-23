@@ -4,6 +4,7 @@
 * [Documentation](https://nim-lang.org/documentation.html) : Primary Documentation
 * [Nim Manual](https://nim-lang.org/docs/manual.html)
 * [Style Guide](https://nim-lang.org/docs/nep1.html)
+* [Nim GDB - An introduction of how to use the GDB debugger with Nim code (youtube)](https://www.youtube.com/watch?v=DmYOPkI_LzU)
 
 # Blogs / News
 
