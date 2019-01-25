@@ -81,6 +81,11 @@
 
 * [jester](https://github.com/dom96/jester) :  Sinatra-like web framework for Nim.
 * [rosencrantz](https://github.com/andreaferretti/rosencrantz) : Web DSL for Nim
+* [nimassets: bundle your data like go-bindata](https://xmonader.github.io/nimdays/day14_nimassets.html)
+
+## Database
+
+* [nim-gatabase](https://github.com/juancarlospaco/nim-gatabase) - nim-based ORM
 
 # Interesting Applications
 
