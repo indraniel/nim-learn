@@ -34,6 +34,7 @@
 
 # Alternative Resources
 
+* [Learn Nim](https://nim-lang.org/learn.html)
 * [Nim Programming Cookbook](http://nim-cookbook.btbytes.com/)
 * [Nim by Example](https://nim-by-example.github.io/)
 * [Nim Basics](https://narimiran.github.io/nim-basics/)
@@ -58,6 +59,7 @@
 * [Variable length arrays for Nim](https://github.com/bpr/vla)
 * [TinyNim - a REPL for Nim (an interactive sandbox for testing Nim code)](https://github.com/jlp765/tnim)
 * [Dennis Felsing's gists](https://gist.github.com/def-)
+* [Speeding up Python with Nim (and nimpy)](https://robert-mcdermott.gitlab.io/posts/speeding-up-python-with-nim/)
 
 ## Genomics
 
@@ -84,6 +86,7 @@
 
 * [mosdepth](https://github.com/brentp/mosdepth)
 * [Nim implementation of the RealWorld example app](https://github.com/battila7/nim-realworld-example-app)
+* [pipelines](https://github.com/calebwin/pipelines)
 
 # Videos
 
