@@ -83,6 +83,11 @@
 * [rosencrantz](https://github.com/andreaferretti/rosencrantz) : Web DSL for Nim
 * [nimassets: bundle your data like go-bindata](https://xmonader.github.io/nimdays/day14_nimassets.html)
 
+## Web Clients / APIs
+
+* [lastfm](http://ryuk.ooo/nimdocs/lastfm/lastfm.html) : _Nim library for the Last.FM web API. It leverages async/await, and provides multiple methods for setting up client-authenticated sessions._
+* [httpclient](https://nim-lang.org/docs/httpclient.html) : _a simple HTTP client that can be used to retrieve webpages and other data._
+
 ## Database
 
 * [nim-gatabase](https://github.com/juancarlospaco/nim-gatabase) - nim-based ORM
