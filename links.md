@@ -114,6 +114,7 @@
 * [Nim: A New Option for Optimizing Inner Loops](https://www.youtube.com/watch?v=IVgNVJdizHg) -- Extending python with Nim
 * [Fred Heath - The Nim programming language - Bristech 2016](https://www.youtube.com/watch?v=_HeU8yg_WaE)
 * [OSCON 2015 - Andreas Rumpf - Nim: An Overview](https://www.youtube.com/watch?v=4rJEBs_Nnaw)
+* [Practical Programming With Nim](http://ryuk.ooo/videos.html)
 
 ### Jupyter/Python integration
 
